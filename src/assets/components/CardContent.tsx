@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import checkListIcon from "../images/icon-list.svg";
 import SuccessCard from "./SuccessCard";
 

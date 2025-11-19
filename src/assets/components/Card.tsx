@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from "react";
 import mobileIllustration from "../images/illustration-sign-up-mobile.svg";
 import desktopIllustration from "../images/illustration-sign-up-desktop.svg";
 import tabletIllustration from "../images/illustration-sign-up-tablet.svg";
